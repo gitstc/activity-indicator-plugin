@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-activity-indicator",
+  "version": "0.0.1",
+  "description": "ActivityIndicator",
+  "cordova": {
+    "id": "cordova-plugin-activity-indicator",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova-plugin-activity-indicator"
+  ],
+  "author": "",
+  "license": "Apache 2.0"
+}
